@@ -1,0 +1,20 @@
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week2\Solutions\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week2\Solutions\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week2\Solutions\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week2\Solutions\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week2\Solutions\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week2\Solutions\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Working\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Working\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Working\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Working\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Working\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Questions\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 2\Questions\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csprojResolveAssemblyReference.cache
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csprojResolveAssemblyReference.cache
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe.config
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.pdb
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.exe
+C:\Users\n10353330\Desktop\TextAnalyser\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.pdb
